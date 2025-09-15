@@ -1,0 +1,32 @@
+html{
+    background-color: azure;
+}
+table{
+    width: 400px;
+}
+div {
+    padding: 2px;
+margin:auto;
+    border-top: 4px solid black;
+    border-right: 4px solid black;
+    border-left: 4px solid black;
+    border-bottom: 4px solid black;
+    border-radius: 2px;
+    background-color: bisque;
+    width: 400px;
+    border-top-left-radius:30px;
+    border-top-right-radius: 30px;
+}
+h2{
+    text-align: center;
+}
+h2:hover{
+    color: blue;
+}
+.borde-left{
+    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+}
+tr{
+    text-align: center;
+}
