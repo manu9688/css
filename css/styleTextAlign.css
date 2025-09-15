@@ -1,0 +1,23 @@
+html {
+    background-color: bisque;
+}
+
+div {
+    padding: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-radius: 2px;
+    background-color: white;
+    width: 300px;
+
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
