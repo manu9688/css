@@ -1,0 +1,15 @@
+div {
+
+    background-color: #87d42e;
+    height: 200px;
+    width: 300px;
+    overflow: hidden;
+}
+
+.barraLateral {
+  height: 200px;             /* Altura fija */
+  width: 300px;
+  overflow-y: scroll;        /* Barra vertical */
+  border: 1px solid #ccc;
+  padding: 10px;
+}
