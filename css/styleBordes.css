@@ -1,0 +1,9 @@
+div{
+    padding: 40px;
+    margin: 40px;
+    border-top: 3px dotted green;
+    border-right: 8px dashed blue;
+    border-left: 8px double black ;
+    border-bottom: 4px solid red;
+
+}
