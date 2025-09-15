@@ -20,8 +20,8 @@ margin:auto;
 h2{
     text-align: center;
 }
-h2:hover{
-    color: blue;
+span{
+    background-color: #03a9f4;
 }
 .borde-left{
     border-bottom: 2px solid black;
@@ -29,4 +29,7 @@ h2:hover{
 }
 tr{
     text-align: center;
+}
+#fondoAzul{
+    background-color: #03a9f4;
 }
