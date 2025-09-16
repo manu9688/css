@@ -1,25 +1,29 @@
-div{
+div {
     background-color: red;
-    margin-left: auto ;
+    margin-left: auto;
     margin-right: auto;
     margin-top: 50px;
     width: 100px;
     height: 100px;
-   
+
 }
-.outline{
- outline: #5fff2fea dotted 10px;
+
+.outline {
+    outline: #5fff2fea dotted 10px;
     outline-offset: 0px;
 }
-.outline:hover{
-     outline: black dotted 5px;
+
+.outline:hover {
+    outline: black dotted 5px;
 }
-.numberDiv{
+
+.numberDiv {
     position: relative;
     top: 0;
-border: 2px solid black;
+    border: 2px solid black;
 }
-.circle{
+
+.circle {
     background-color: greenyellow;
     border: solid 1px black;
     border-radius: 100px;
@@ -28,23 +32,110 @@ border: 2px solid black;
     text-align: center;
 }
 
-.number1{
+.number1 {
     position: absolute;
-   top: -60px;
+    top: -60px;
     left: -5px;
 }
-.number2{
+
+.number2 {
     position: absolute;
-   top: -60px;
+    top: -60px;
     right: -5px;
 }
-.number3{
+
+.number3 {
     position: absolute;
     bottom: -5px;
     left: -5px;
 }
-.number4{
+
+.number4 {
     position: absolute;
     bottom: -5px;
     right: -5px;
 }
+
+.diana {
+    position: relative;
+    background-color: rgb(213, 203, 203);
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    border: solid 1px rgb(201, 175, 175);
+}
+
+.marco1 {
+    position: absolute;
+    border-radius: 100px;
+width: 150px;
+height: 150px;
+right: 20px;
+left: 20px;
+top: -25px;
+box-shadow: -4px -3px white;
+}
+
+.marco2{
+    position: absolute;
+    border-radius: 100px;
+    width: 100px;
+height: 100px;
+border: solid white 10px;
+left: 15px;
+top: -35px;
+}
+.marco3{
+    position: absolute;
+    border-radius: 100px;
+    border: solid white 10px;
+    width: 60px;
+    height: 60px;
+    left: 35px;
+    top: -15px;
+}
+.marco4{
+    position: absolute;
+    border-radius: 100px;
+    border: solid white 10px;
+    width: 20px;
+    height: 20px;
+    left: 55px;
+    top: 5px;
+}
+.linea1{
+    position: relative;
+    background-color: black;
+    width: 1px;
+    height: 200px;
+    top: -75px;
+}
+.linea2{
+    position: relative;
+    background-color: black;
+    width: 200px;
+    height: 1px;
+    bottom: 225px;
+    right: 25px;
+}
+
+/*
+.red{
+    position: absolute;
+    top: -44px;
+    left: 5px;
+    background-color: red;
+    border: solid white 15px;
+      width: 120px;
+    height: 120px;
+}
+.white{
+    position: absolute;
+    top: -23px;
+    right: 33px;
+    background-color:red;
+    border: solid white 8px;
+      width: 80px;
+    height: 80px;
+}
+    */
