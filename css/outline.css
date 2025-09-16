@@ -1,0 +1,13 @@
+div{
+    background-color: red;
+    margin-left: auto ;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 100px;
+    height: 100px;
+    outline: #5fff2fea dotted 10px;
+    outline-offset: 0px;
+}
+div:hover{
+     outline: black dotted 5px;
+}
