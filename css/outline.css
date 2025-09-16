@@ -107,16 +107,16 @@ top: -35px;
     position: relative;
     background-color: black;
     width: 1px;
-    height: 200px;
-    top: -75px;
+    height: 160px;
+    top: -55px;
 }
 .linea2{
     position: relative;
     background-color: black;
-    width: 200px;
+    width: 165px;
     height: 1px;
-    bottom: 225px;
-    right: 25px;
+    bottom: 185px;
+    right: 12px;
 }
 
 /*
