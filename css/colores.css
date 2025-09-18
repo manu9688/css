@@ -1,0 +1,125 @@
+h1 {
+    clear: both;
+}
+
+.contenedor {
+    text-align: justify;
+    margin-top: 50px;
+}
+
+.circulo {
+    position: relative;
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    
+}
+
+.circulo-rojo {
+    top: 0;
+    float: left;
+    background-color: red;
+    z-index: auto;
+}
+
+.circulo-rojo-1 {
+    clear: both;
+    background-color: red;
+    margin-left: 50px;
+    z-index: 0;
+    float: left;
+}
+
+.circulo-verde-1 {
+
+    margin-left: -60px;
+    background-color: rgb(24, 220, 24);
+    float: left;
+    z-index: 2;
+}
+
+.circulo-azul-1 {
+top: 150px;
+margin-left: -280px;
+    background-color: blue;
+    float: left;
+    z-index: 33;
+
+}
+
+.circulo-verde {
+    top: 0;
+    background-color: rgb(24, 220, 24);
+    float: left;
+    z-index: 50;
+}
+
+.circulo-azul {
+
+    top: 0;
+    background-color: blue;
+    float: left;
+}
+
+.circulo-azul-2 {
+    clear: both;
+    top: 0;
+    background-color: blue;
+    float: left;
+}
+
+h2 {
+    clear: both;
+    top: 100px;
+}
+
+.circulo-rojo-secundario {
+    clear: both;
+    margin: 10px;
+    float: left;
+    background-color: red;
+}
+
+.circulo-verde-secundario {
+    margin: 10px;
+    background-color: rgb(24, 220, 24);
+    float: inline-start;
+}
+
+.circulo-verde-2 {
+    clear: both;
+    margin: 10px;
+    background-color: rgb(24, 220, 24);
+    float: inline-start;
+}
+
+.circulo-rosa-secundario {
+    margin: 10px;
+    background-color: rgb(237, 15, 145);
+    float: inline-start;
+}
+
+.circulo-aqua {
+    margin: 10px;
+    background-color: aqua;
+    float: inline-start;
+}
+
+.circulo-amarillo {
+    margin: 10px;
+    background-color: yellow;
+    float: inline-start;
+}
+
+.mas {
+    top: 90px;
+    float: left;
+    position: relative;
+}
+
+.igual {
+    top: 90px;
+    float: left;
+    position: relative;
+}
