@@ -12,3 +12,32 @@
  float: right;
  width: 50%;
 }
+
+header{
+background-color: red;
+height: 100px;
+}
+nav{
+    background-color: #007fff;
+  height: 30px;
+}
+section{
+    background-color: pink;
+height: 500px;
+width: 1070px;
+position: absolute;
+
+}
+aside{
+    background-color: #fe80fe;
+height: 500px;
+width: 400px;
+float: right;
+position: relative;
+z-index: 5;
+}
+footer{
+    background-color: #80ff00;
+    height: 30px;
+    clear: both;
+}
